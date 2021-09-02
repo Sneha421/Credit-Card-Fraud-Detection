@@ -4,4 +4,8 @@ This project deals with the classification of transactions from a dataset that c
 ## Dataset Used
 The [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle has been used
 ## Technologies used
+1. **Python3** - Programming Language for the entire project
+2. **Scikit Learn Library** -  For employing the Machine Learning Models
+3. **Matplotlib & Seaborn** - For Visualizing the data
 ## Result
+
