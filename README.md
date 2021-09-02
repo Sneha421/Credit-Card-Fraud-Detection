@@ -7,6 +7,7 @@ The [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditc
 1. **Python3** - Programming Language for the entire project
 2. **Scikit Learn Library** -  For employing the Machine Learning Models
 3. **Matplotlib & Seaborn** - For Visualizing the data
-## Result
+## Results
+![image](https://user-images.githubusercontent.com/61591312/131788029-17f068ec-cdc3-4ceb-acb1-f7e441245737.png)
 
 ![image](https://user-images.githubusercontent.com/61591312/131787615-3a15ab87-1e19-4b61-80ac-3bdc98093209.png)
