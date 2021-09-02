@@ -9,3 +9,4 @@ The [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditc
 3. **Matplotlib & Seaborn** - For Visualizing the data
 ## Result
 
+![image](https://user-images.githubusercontent.com/61591312/131787615-3a15ab87-1e19-4b61-80ac-3bdc98093209.png)
