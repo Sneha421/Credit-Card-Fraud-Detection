@@ -1,6 +1,12 @@
 # Credit-Card-Fraud-Detection
 ## About
 This project deals with the classification of transactions from a dataset that consists of over two lakh fraudulent credit card transactions. It employs Supervised Machine Learning Algorithms to accurately detect and classify an illegitimate transaction. Four such models are used and are reviewed in a comparative study to analyze the algorithm that is best suited for such a problem.
+
+## Team Members
+1) [Dipshikha Biswas](https://github.com/dipshikha461)
+2) [Harshitha Nagarajan](https://github.com/HarshithaNagarajan)
+3) [Sneha B](https://github.com/Sneha421)
+
 ## Dataset Used
 The [Credit Card Fraud Detection Dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) from Kaggle has been used
 ## Technologies used
